@@ -1,7 +1,15 @@
 ### Hi there, I'm Kuan-Chih Wang.
 
-![](https://komarev.com/ghpvc/?username=bear7066) <br />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bear7066" alt="Profile views" />
+</p>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bear7066&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=bear7066&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/bear7066">
+    <img
+      width="460"
+      src="https://streak-stats.demolab.com?user=bear7066&amp;theme=tokyonight&amp;hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
